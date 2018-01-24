@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
     <div>
         <asp:Label ID="Label1" runat="server" Text="This is demo project."></asp:Label>
+        <p>Welcome to GIC</p>
     </div>
     </form>
 </body>
